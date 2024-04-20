@@ -1,1 +1,1 @@
-# Power-BI-Project- HR ANALYTICS
+# Power-BI-Project- HR Analytics
